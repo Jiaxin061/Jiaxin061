@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-👋 I'm a first-year student pursuing Software Engineering at Universiti Teknologi Malaysia (UTM). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
+👋 I'm a first-year student pursuing Software Engineering at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
 
 
 
@@ -12,7 +12,7 @@ Software Engineering Student
 
 * 🌍 I'm based in Johor, Malaysia
 * 🎓  Currently study at Universiti Teknologi Malaysia
-* 💼  Deputy Team Leader of Bureau Design, Pesta Tanglung UTM
+* 💼  Deputy Team Leader of Bureau Design, [Pesta Tanglung UTM](https://www.utm.my/ptutm/)
 * ✉️ You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
 
 
