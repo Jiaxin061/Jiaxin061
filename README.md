@@ -6,7 +6,7 @@ Software Engineering Student
 
 👋 I'm a first-year student pursuing Software Engineering at Universiti Teknologi Malaysia (UTM). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
 
-----------------------------
+
 
 ### 👩‍💻 About Me
 
@@ -16,7 +16,7 @@ Software Engineering Student
 * ✉️ You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
 
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -24,9 +24,19 @@ Software Engineering Student
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/Jiaxin061" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+
+## Assignments
+
+[TIS Assignment 1 PDF](https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
+
+[TIS Assignment 2 PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_assignment_2.pdf)
+
+
+
 
 ### Badges
 
