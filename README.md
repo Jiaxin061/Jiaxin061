@@ -31,9 +31,9 @@ Software Engineering Student
 
 ## Assignments
 
-[TIS Assignment 1 PDF](https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
+[TIS Assignment 1 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
 
-[TIS Assignment 2 PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_assignment_2.pdf)
+[TIS Assignment 2 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_2.pdf)
 
 
 
