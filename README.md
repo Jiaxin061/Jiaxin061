@@ -6,14 +6,21 @@ Software Engineering Student
 
 👋 I'm a first-year student pursuing Software Engineering at Universiti Teknologi Malaysia (UTM). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
 
-* 🌍  I'm based in Johor, Malaysia
-* ✉️  You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
+----------------------------
+
+### 👩‍💻 About Me
+
+* 🌍 I'm based in Johor, Malaysia
+* 🎓  Currently study at Universiti Teknologi Malaysia
+* 💼  Deputy Team Leader of Bureau Design, Pesta Tanglung UTM
+* ✉️ You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
+
 
 ### Skills
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 
