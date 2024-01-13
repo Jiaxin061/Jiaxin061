@@ -16,7 +16,7 @@ Software Engineering Student
 * ✉️ You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
 
 
-## Skills
+### Skills
 
 
 <p align="left">
@@ -24,16 +24,20 @@ Software Engineering Student
 </p>
 
 
-## Socials
+### Socials
 
 <p align="left"> <a href="https://www.github.com/Jiaxin061" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
 ## Assignments
 
-[TIS Assignment 1 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
+### Assignment 1 : Report on Visit to NALI 2023
+> [TIS Assignment 1 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
 
-[TIS Assignment 2 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_2.pdf)
+
+
+### Assignment 2 : Poster on Industrial Talk 1
+> [TIS Assignment 2 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_2.pdf)
 
 
 
