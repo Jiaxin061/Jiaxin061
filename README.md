@@ -3,26 +3,36 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineering Student
 ----------------------------
-
-👋 I'm a first-year student pursuing Software Engineering at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
-
-
-
 ### 👩‍💻 About Me
 
+* 👋 I'm a first-year student pursuing Software Engineering at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
 * 🌍 I'm based in Johor, Malaysia
-* 🎓  Currently study at Universiti Teknologi Malaysia
-* 💼  Deputy Team Leader of Bureau Design, [Pesta Tanglung UTM](https://www.utm.my/ptutm/)
 * ✉️ You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
 
 
-### Skills
+
+
+### 🎓 Education
+* Melacca Matriculation College
+* Currently study at Universiti Teknologi Malaysia
+
+
+
+### 💼 Position
+* Deputy Team Leader of Bureau Design, [Pesta Tanglung UTM](https://www.utm.my/ptutm/)
+
+  
+
+### 🛠️ Skills
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />      </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>      <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+### 🏆 Honors and Awards
+* Kuiz Kimia Kebangsaan (K3M) 2023
+* Stematric Challenge Mascar 2022
 
 ### Socials
 
@@ -31,17 +41,23 @@ Software Engineering Student
 
 ## Assignments
 
-### Assignment 1 : Report on Visit to NALI 2023
+> ### Assignment 1 : Report on Visit to NALI 2023
 > [TIS Assignment 1 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
 
 
 
-### Assignment 2 : Poster on Industrial Talk 1
+> ### Assignment 2 : Poster on Industrial Talk 1
 > [TIS Assignment 2 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_2.pdf)
 
 
+> ### Assignment 3: Video on Visit to UTMDigital and the Attended Virtual Talk
+>
 
+> ### Assignment 4: Report on Industrial Talks
+> 
 
+> ### PC Assemble
+> 
 ### Badges
 
 <b>My GitHub Stats</b>
