@@ -63,7 +63,7 @@ Software Engineering Student
 ## Reflection
 * **Assignment 1**
 
-> My visit to NALI 2023 was a transformative experience, providing a profound insight of the vital role of Information and Communication Technology (ICT) in the realm of modern education. It showcased diverse needs met by ICT, including Augmented Reality (AR) technology, virtual classrooms via social media, efficient information management through databases, and others. These prompted me to explore how the features of ICT could be incorporated into my own learning experience.```
+> My visit to NALI 2023 was a transformative experience, providing a profound insight of the vital role of Information and Communication Technology (ICT) in the realm of modern education. It showcased diverse needs met by ICT, including Augmented Reality (AR) technology, virtual classrooms via social media, efficient information management through databases, and others. These prompted me to explore how the features of ICT could be incorporated into my own learning experience.
 
 
 * **Assignment 2**
