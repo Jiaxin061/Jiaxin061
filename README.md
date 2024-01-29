@@ -42,23 +42,25 @@ Software Engineering Student
 ## Assignments
 
 > ### Assignment 1 : Report on Visit to NALI 2023
-> [TIS Assignment 1 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_Assignment_1.pdf)
+> [TIS Assignment 1 PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_Assignment_1.pdf)
 
 
 
 > ### Assignment 2 : Poster on Industrial Talk 1
-> [TIS Assignment 2 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_2.pdf)
+> [TIS Assignment 2 PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_assignment_2.pdf)
 
 
 > ### Assignment 3: Video on Visit to UTMDigital and the Attended Virtual Talk
-> [TIS Assignment 3 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_3.pdf)
+> [TIS Assignment 3 PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_assignment_3.pdf)
 
 > ### Assignment 4: Report on Industrial Talks
-> [TIS Assignment 4 PDF](https://docs.google.com/viewer?url=https://github.com/Jiaxin061/Jiaxin061/raw/main/TIS_assignment_4.pdf)
+> [TIS Assignment 4 PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_assignment_4.pdf)
 
 > ### PC Assemble
 > ![My Image](https://github.com/Jiaxin061/Jiaxin061/blob/main/TIS_PC_Assemble.jpg)
 
+> ### Design Thinking Project
+> [TIS Design Thinking PDF](https://github.com/Jiaxin061/Jiaxin061/blob/main/Design%20Thinking-Group%208_S06%20(1).pdf)
 
 ## Reflection
 * **Assignment 1**
@@ -84,6 +86,10 @@ Software Engineering Student
 * **PC Assemble**
 
 > The PC assembly lab session offered a hands-on experience that significantly enhanced my understanding of hardware components, particularly the system unit. This practical opportunity to assemble and disassemble a PC was invaluable in translating theoretical knowledge into tangible skills. I was able to identify and connect various components, such as the motherboard, CPU, RAM, and storage devices, with a clearer understanding of their roles and interactions. The hands-on opportunity to assemble and disassemble a PC deepened my understanding of hardware components.
+
+* **Design Thinking Project**
+
+> In the design thinking process to create a prototype,  a highly insightful and practical experience was provided when our group worked on addressing privacy and security issues in financial applications . Our prototype, named "SafeStash," was crafted with a focus on top-grade encryption, incognito mode, combinational verification, and privacy references. Through this project, we navigated the intricacies of problem-solving within the context of designing a prototype.  Moreover, the project not only enhanced our technical skills but also significantly improved our creative problem-solving abilities that are undeniably essential abilities to become a software engineer.
 
 ### Badges
 
