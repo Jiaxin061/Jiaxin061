@@ -18,9 +18,6 @@ Software Engineering Student
 
 
 
-### 💼 Position
-* Deputy Team Leader of Bureau Design, [Pesta Tanglung UTM](https://www.utm.my/ptutm/)
-
   
 
 ### 🛠️ Skills
