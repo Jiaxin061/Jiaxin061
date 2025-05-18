@@ -5,7 +5,7 @@ Software Engineering Student
 ----------------------------
 ### 👩‍💻 About Me
 
-* 👋 I'm a first-year student pursuing Software Engineering at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
+* 👋 I'm a second-year student pursuing Software Engineering at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). Passionate about coding and eager to explore the exciting world of software development. 🖥️✨
 * 🌍 I'm based in Johor, Malaysia
 * ✉️ You can contact me at [jiaxin@graduate.utm.my](mailto:jiaxin@graduate.utm.my)
 
